@@ -1,17 +1,12 @@
 ### Hi there 👋
 
-<!--
-**MirazHasan/MirazHasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 
 - 🔭 I’m currently working on *Graphics & Web Design*
 - 🌱 I’m currently learning *Web Development*
 - 🤔 I’m looking for help with *Backend Dev*
-- 📫 How to reach me: *rtrmiraz@gmail.com*
-- ⚡ Fun fact: Ich habe Deutsch Spache B1 niveau abgeschulossen. "I have to done German lanugage B1 level"
--->
+- 📫 How to reach me: *lubabasultana.cpi@gmail.com*
+- ⚡ Fun fact: Ich habe Deutsch Sprache B1 niveau abgeschlossen "I have to finish German language B1 level"
 
 ## 💖 About Me:
  Hello, I am Mohammad Miraz Hasan, a dedicated web developer who derives great joy from the art of creating digital experiences. Web development is not just a profession for me; it is a genuine passion for innovation and problem-solving. I take pride in my ability to craft solutions that not only meet functional requirements but also contribute to elevating user experiences to new heights.
